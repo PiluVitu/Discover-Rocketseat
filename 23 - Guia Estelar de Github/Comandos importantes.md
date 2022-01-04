@@ -23,3 +23,6 @@
 ### Enviando alguma mudança
 
 > git push
+
+### Puxando alguma mudança
+> git pull
