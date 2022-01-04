@@ -14,6 +14,8 @@
 
 > Guia para caso queira instalar em outro SO https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
-> git remote add origin git@github.com:PiluVitu/Discover-Rocketseat.git
+## Linkando repositorio do pc no do github
+
+> git remote add origin 'ssh'
 > git branch -M main
 > git push -u origin main
