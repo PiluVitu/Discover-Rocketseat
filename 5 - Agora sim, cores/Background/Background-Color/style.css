@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+}
+
+header {
+  border: 5px dashed red;
+  height: 50px;
+  background-color: cornflowerblue;
+}

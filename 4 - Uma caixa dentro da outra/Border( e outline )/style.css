@@ -1,0 +1,19 @@
+body {
+  margin: 60px;
+  outline: 4px solid pink;
+}
+
+div {
+  border: 0.2em dashed red;
+  border-top: 0.6em solid purple;
+  border-bottom-color: aqua;
+  box-sizing: border-box;
+  padding: 20px;
+  text-align: center;
+
+  outline: yellow 8px solid;
+}
+
+input {
+  outline: 5px solid moccasin;
+}

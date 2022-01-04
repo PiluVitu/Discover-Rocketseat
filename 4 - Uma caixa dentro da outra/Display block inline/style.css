@@ -1,0 +1,15 @@
+div {
+  width: 100px; /*Funciona*/
+  height: 100px; /*Funciona*/
+  border: 1px solid red;
+  padding: 30px 15px; /**/
+}
+
+span {
+  width: 100px; /*Não funciona*/
+  height: 100px; /*Não funciona*/
+
+  border: 1px solid red;
+
+  margin: 50px 10px; /*Só funciona valores horizonontais(Largura)*/
+}

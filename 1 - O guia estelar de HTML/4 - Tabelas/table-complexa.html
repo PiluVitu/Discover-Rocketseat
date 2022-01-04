@@ -1,0 +1,50 @@
+<!--
+    2 - Lojas
+      Quantos produtos foram produzidos, quantos vendidos e agrupados por nome  dos produtos
+      "rowspan" = Aumneta a ocupação de linhas 
+      "colspan" = Aumenta a ocupações de colunas
+      "colgroup" = tag que agrupoa as colunas
+      "col" = tag que se refere as colunas principais 
+      "scope" = tag usada para melhorar a acessibilidade em entender que o elemneto tem algo relacionado a outro  
+
+-->
+<table>
+  <caption>
+    Produzidos x Vendidos por Loja
+  </caption>
+  <colgroup>
+    <col />
+    <col span="2" style="background-color: red" />
+    <col span="2" style="background-color: blue" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th colspan="2" scope="colgroup">Pilu's Store</th>
+      <th colspan="2" scope="colgroup">Ricci's coçs Guns</th>
+    </tr>
+
+    <tr>
+      <th scope="col">Produzido</th>
+      <th scope="col">Vendido</th>
+      <th scope="col">Produzido</th>
+      <th scope="col">Vendido</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Vassoura</th>
+      <th>50</th>
+      <th>30</th>
+      <th>20</th>
+      <th>20</th>
+    </tr>
+    <tr>
+      <th scope="row">Baldes</th>
+      <th>10</th>
+      <th>10</th>
+      <th>30</th>
+      <th>25</th>
+    </tr>
+  </tbody>
+</table>

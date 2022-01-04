@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+}
+
+/*header {
+  border: 5px dashed red;
+  height: 100px;
+  background-color: cornflowerblue;
+  background-image: url(https://image.winudf.com/v2/image1/Y29tLmJhcnlhYS5hbW9uZ3VzZnJpZW5kc2ZpbmRlcl9pY29uXzE2MDE2OTg0OTVfMDUx/icon.png?w=&fakeurl=1);
+  background-repeat: no-repeat;
+}*/
+
+main {
+  color: purple;
+  padding: 8px;
+
+  background-color: rgb(55, 100, 50);
+  background-image: url(https://image.winudf.com/v2/image1/Y29tLmJhcnlhYS5hbW9uZ3VzZnJpZW5kc2ZpbmRlcl9pY29uXzE2MDE2OTg0OTVfMDUx/icon.png?w=&fakeurl=1);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 50px;
+  background-origin: border-box;
+  background-clip: content-box;
+  background-attachment: fixed;
+
+  background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 0, 0, 0.2)),
+    url(https://image.winudf.com/v2/image1/Y29tLmJhcnlhYS5hbW9uZ3VzZnJpZW5kc2ZpbmRlcl9pY29uXzE2MDE2OTg0OTVfMDUx/icon.png?w=&fakeurl=1)
+      no-repeat right top / 50px border-box content-box fixed;
+}
