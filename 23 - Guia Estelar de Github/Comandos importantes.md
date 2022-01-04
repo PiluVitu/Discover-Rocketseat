@@ -19,3 +19,7 @@
 > git remote add origin 'ssh'
 > git branch -M main
 > git push -u origin main
+
+### Enviando alguma mudança
+
+> git push
