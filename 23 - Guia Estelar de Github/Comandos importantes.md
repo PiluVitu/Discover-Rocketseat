@@ -25,4 +25,4 @@
 > git push
 
 ### Puxando alguma mudança
-> git pull
+> 
