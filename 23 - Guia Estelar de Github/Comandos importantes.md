@@ -13,3 +13,7 @@
 > <span style="color:blue">_$ ssh-add ~/.ssh/id_rsa_</span> 2 comnado para ativar a chave ssh
 
 > Guia para caso queira instalar em outro SO https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+> git remote add origin git@github.com:PiluVitu/Discover-Rocketseat.git
+> git branch -M main
+> git push -u origin main
