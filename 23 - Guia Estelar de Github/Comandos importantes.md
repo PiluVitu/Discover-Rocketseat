@@ -29,3 +29,11 @@
 > git pull
 
 ## Marge
+
+> git config --global pull.rebase false
+
+## Clone
+
+Quando quero trazer algo do Github para minha maquina
+
+> git clone ssh
