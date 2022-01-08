@@ -17,5 +17,5 @@ div.parent {
 
 ## Alinhamento
 
-- justify-content
-- align-items
+- justify-content - posicionamento do conteudo dentro de containers
+- align-items - posicionamento dos containers
