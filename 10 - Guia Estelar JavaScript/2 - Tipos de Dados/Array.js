@@ -8,4 +8,4 @@
     ["Pilu",36] 
  */
 console.log(['Pilu', 21])
-console.log(['Lívia Ricci', 20, 'Mulher'])
+console.log(['Lívia Ricci', 20, 'My Mozão'])
