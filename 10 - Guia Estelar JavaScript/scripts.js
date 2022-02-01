@@ -29,3 +29,14 @@ console.log("-> existe x antes do bloco ?", y);
 console.log("-> existe x depois do bloco ?", y);
 
 console.log("Escopo de let e const");
+
+// const e let são locais e  só funcionam no escopo onde foi criada
+console.log("-> Existe z antes do bloco ?", z);
+
+{
+  let z = 0;
+}
+
+console.log("-> Existe z depois do bloco ?", y);
+
+// fas
